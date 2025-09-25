@@ -27,4 +27,4 @@
 1. Open MongoDB Compass and connect to `localhost:27017`.
 2. Select the database (e.g., `cookieApp`) and collection (e.g., `sessions`).
 3. Look for the session document containing the cookie data.
-![MongoDB Cookie](public/3.png)
+![MongoDB Cookie](public/1.png)
