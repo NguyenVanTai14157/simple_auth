@@ -2,7 +2,4 @@
 node_modules/
 # Bỏ file môi trường
 .env
-# Bỏ file log
-*.log
-# Bỏ qua lock file nếu không cần
-package-lock.json
+
