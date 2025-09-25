@@ -4,3 +4,5 @@ node_modules/
 .env
 # Bỏ file log
 *.log
+# Bỏ qua lock file nếu không cần
+package-lock.json
