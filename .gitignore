@@ -1,8 +1,6 @@
 # Bỏ qua node_modules
 node_modules/
-
-# Bỏ lock file nếu không cần
-package-lock.json
-
 # Bỏ file môi trường
 .env
+# Bỏ file log
+*.log
